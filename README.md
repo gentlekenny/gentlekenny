@@ -1,4 +1,4 @@
-👱‍♂️ **Kenan Omić** - Experienced Software Engineer with a proven track record of delivering high-quality web applications. Skilled in modern backend technologies and frameworks, I thrive in fast-paced environments, driving innovation and delivering exceptional and detailed backend services.
+👱‍♂️ **Kenan Omić** - Experienced Software Engineer with a proven track record of delivering high-quality web applications. Skilled in modern frontend and backend technologies and frameworks, I thrive in fast-paced environments, driving innovation and delivering exceptional and detailed products.
 
 
 💼 **Currently working on REIPrintmail using:**

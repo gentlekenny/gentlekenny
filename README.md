@@ -11,7 +11,7 @@
 <br/>
 
 
-👱‍♂️ Kenan Omić - Experienced Software Engineer with a proven track record of delivering high-quality web applications. Skilled in modern frontend and backend technologies and frameworks, I thrive in fast-paced environments, driving innovation and delivering exceptional and detailed products.
+👱‍♂️ Kenan Omić - Experienced Software Engineer with a proven track record of delivering high-quality web applications. Skilled in modern frontend and backend technologies and frameworks, I thrive in fast-paced environments, driving innovation and delivering exceptional and detailed products. I've been in web development for a couple of years now, this is a fresh Github profile where I will re-add my personal projects and useful applications which I rated as useful through my development experience.
 
 
 💼 Currently working on REIPrintmail using:
